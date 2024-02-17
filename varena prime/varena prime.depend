@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587893696 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena prime\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1688996731 source:c:\users\sebas\onedrive\documents\github\varena\varena prime\main.cpp
+	<bits/stdc++.h>
+

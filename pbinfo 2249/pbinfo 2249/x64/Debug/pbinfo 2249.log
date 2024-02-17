@@ -1,0 +1,3 @@
+﻿  pbinfo 2249.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2249\pbinfo 2249\pbinfo 2249.cpp(29,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pbinfo 2249.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2249\x64\Debug\pbinfo 2249.exe

@@ -1,0 +1,3 @@
+﻿  usaco_bronze_Cowntact_Tracing_2.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\usaco_bronze_Cowntact_Tracing_2\usaco_bronze_Cowntact_Tracing_2\usaco_bronze_Cowntact_Tracing_2.cpp(12,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  usaco_bronze_Cowntact_Tracing_2.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\usaco_bronze_Cowntact_Tracing_2\x64\Debug\usaco_bronze_Cowntact_Tracing_2.exe

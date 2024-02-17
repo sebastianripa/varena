@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624979423 source:c:\users\sebas\documents\info\varena\187 pbinfo\main.cpp
+	<fstream>
+	<iostream>
+

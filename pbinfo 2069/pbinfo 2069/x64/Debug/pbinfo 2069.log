@@ -1,0 +1,7 @@
+﻿  pbinfo 2069.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2069\pbinfo 2069\pbinfo 2069.cpp(25,20): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  pbinfo 2069.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2069\x64\Debug\pbinfo 2069.exe

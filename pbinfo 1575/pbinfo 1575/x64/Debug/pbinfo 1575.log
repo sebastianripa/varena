@@ -1,0 +1,7 @@
+﻿  pbinfo 1575.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1575\pbinfo 1575\pbinfo 1575.cpp(44,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  pbinfo 1575.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1575\x64\Debug\pbinfo 1575.exe

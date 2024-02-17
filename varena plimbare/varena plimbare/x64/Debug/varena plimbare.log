@@ -1,0 +1,3 @@
+﻿  varena plimbare.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena plimbare\varena plimbare\varena plimbare.cpp(19,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  varena plimbare.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena plimbare\x64\Debug\varena plimbare.exe

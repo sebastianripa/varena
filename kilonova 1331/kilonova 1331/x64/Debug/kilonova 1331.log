@@ -1,0 +1,4 @@
+﻿  kilonova 1331.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1331\kilonova 1331\kilonova 1331.cpp(21,15): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1331\kilonova 1331\kilonova 1331.cpp(37,9): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+  kilonova 1331.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1331\x64\Debug\kilonova 1331.exe

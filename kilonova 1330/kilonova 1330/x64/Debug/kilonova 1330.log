@@ -1,0 +1,14 @@
+﻿  kilonova 1330.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(106,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(112,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(120,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(130,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(138,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(144,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(152,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(158,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(170,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(178,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(190,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\kilonova 1330\kilonova 1330.cpp(198,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  kilonova 1330.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1330\x64\Debug\kilonova 1330.exe

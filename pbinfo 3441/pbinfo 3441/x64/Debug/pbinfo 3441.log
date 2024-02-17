@@ -1,0 +1,6 @@
+﻿  pbinfo 3441.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3441\pbinfo 3441\pbinfo 3441.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3441\pbinfo 3441\pbinfo 3441.cpp(21,16): warning C4056: overflow in floating-point constant arithmetic
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3441\pbinfo 3441\pbinfo 3441.cpp(52,16): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3441\pbinfo 3441\pbinfo 3441.cpp(52,16): warning C4056: overflow in floating-point constant arithmetic
+  pbinfo 3441.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3441\x64\Debug\pbinfo 3441.exe

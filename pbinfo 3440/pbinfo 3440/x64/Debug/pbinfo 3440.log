@@ -1,0 +1,3 @@
+﻿  pbinfo 3440.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3440\pbinfo 3440\pbinfo 3440.cpp(11,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pbinfo 3440.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3440\x64\Debug\pbinfo 3440.exe

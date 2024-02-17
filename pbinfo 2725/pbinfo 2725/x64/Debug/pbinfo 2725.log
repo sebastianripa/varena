@@ -1,0 +1,4 @@
+﻿  pbinfo 2725.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2725\pbinfo 2725\pbinfo 2725.cpp(10,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2725\pbinfo 2725\pbinfo 2725.cpp(40,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  pbinfo 2725.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 2725\x64\Debug\pbinfo 2725.exe

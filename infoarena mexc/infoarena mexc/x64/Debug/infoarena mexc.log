@@ -1,0 +1,3 @@
+﻿  infoarena mexc.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\infoarena mexc\infoarena mexc\infoarena mexc.cpp(48,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  infoarena mexc.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\infoarena mexc\x64\Debug\infoarena mexc.exe

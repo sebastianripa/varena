@@ -1,0 +1,10 @@
+﻿  pbinfo 1247.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(40,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(46,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(52,19): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(57,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(64,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(70,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(76,42): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\pbinfo 1247\pbinfo 1247.cpp(81,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  pbinfo 1247.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1247\x64\Debug\pbinfo 1247.exe

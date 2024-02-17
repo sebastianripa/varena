@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586252874 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena antiterra\main.cpp
+	<iostream>
+	<fstream>
+

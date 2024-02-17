@@ -1,0 +1,6 @@
+﻿  pbinfo 3033.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3033\pbinfo 3033\pbinfo 3033.cpp(42,31): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3033\pbinfo 3033\pbinfo 3033.cpp(43,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3033\pbinfo 3033\pbinfo 3033.cpp(53,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3033\pbinfo 3033\pbinfo 3033.cpp(54,18): warning C4018: '>': signed/unsigned mismatch
+  pbinfo 3033.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3033\x64\Debug\pbinfo 3033.exe

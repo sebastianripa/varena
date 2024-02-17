@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587219775 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena numere4\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1607252713 source:c:\users\sebastian ripa\source\repos\varena\varena numere4\main.cpp
+	<fstream>
+

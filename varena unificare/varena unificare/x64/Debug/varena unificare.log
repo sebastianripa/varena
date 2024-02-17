@@ -1,0 +1,4 @@
+﻿  varena unificare.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena unificare\varena unificare\varena unificare.cpp(9,39): warning C4101: 'm': unreferenced local variable
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena unificare\varena unificare\varena unificare.cpp(9,36): warning C4101: 'i': unreferenced local variable
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena unificare\varena unificare\varena unificare.cpp(29): error C4716: 'unif': must return a value

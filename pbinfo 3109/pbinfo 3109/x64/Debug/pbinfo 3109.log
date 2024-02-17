@@ -1,0 +1,18 @@
+﻿  pbinfo 3109.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3109\pbinfo 3109\pbinfo 3109.cpp(23,23): message : see reference to function template instantiation 'std::pair<int,int>::pair<double,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3109\pbinfo 3109\pbinfo 3109.cpp(23,23): message : see the first reference to 'std::pair<int,int>::pair' in 'main'
+  pbinfo 3109.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3109\x64\Debug\pbinfo 3109.exe

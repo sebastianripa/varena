@@ -1,0 +1,52 @@
+﻿  pbinfo 1131.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,7): error C2665: 'std::vector<int,std::allocator<int>>::erase': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(1736,27): message : could be 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>) noexcept(<expr>)'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,7): message : 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>) noexcept(<expr>)': cannot convert argument 1 from 'int' to 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::_Vector_const_iterator': no overloaded function could convert all the argument types
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(222,1): message : could be 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::_Vector_const_iterator(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &&)'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::_Vector_const_iterator(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &&)': cannot convert argument 1 from 'int' to 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &&'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : Reason: cannot convert from 'int' to 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(222,1): message : or       'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::_Vector_const_iterator(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &)'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : 'std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>::_Vector_const_iterator(const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &)': cannot convert argument 1 from 'int' to 'const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> &'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : Reason: cannot convert from 'int' to 'const std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,14): message : while trying to match the argument list '(int)'
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(37,7): message : while trying to match the argument list '(int, int)'
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1131\pbinfo 1131\pbinfo 1131.cpp(42,4): error C2059: syntax error: '}'

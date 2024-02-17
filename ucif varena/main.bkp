@@ -1,0 +1,29 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+ifstream fin ("ucif.in");
+ofstream fout ("ucif.out");
+
+int lastNPowN(int n)
+{
+    int p = n;
+    for (int i=1; i<n; i++) {
+        p *= n%10;
+    }
+    return p%10;
+}
+
+int main() {
+    int n;
+    fin >> n;
+    int s = 0;
+
+    for (int i=1; i<=n; i++) {
+        s += lastNPowN(i);
+    }
+
+    fout << s%10;
+    return 0;
+}

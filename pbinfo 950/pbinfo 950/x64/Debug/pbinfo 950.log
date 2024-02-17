@@ -1,0 +1,3 @@
+﻿  pbinfo 950.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 950\pbinfo 950\pbinfo 950.cpp(21,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pbinfo 950.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 950\x64\Debug\pbinfo 950.exe

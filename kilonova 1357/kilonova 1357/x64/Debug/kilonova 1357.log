@@ -1,0 +1,5 @@
+﻿  kilonova 1357.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1357\kilonova 1357\kilonova 1357.cpp(68,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1357\kilonova 1357\kilonova 1357.cpp(73,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1357\kilonova 1357\kilonova 1357.cpp(103,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  kilonova 1357.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\kilonova 1357\x64\Debug\kilonova 1357.exe

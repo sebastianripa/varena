@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588575041 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena pozitii\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,4 @@
+﻿  pbinfo 3824.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3824\pbinfo 3824\pbinfo 3824.cpp(11,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3824\pbinfo 3824\pbinfo 3824.cpp(11,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pbinfo 3824.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 3824\x64\Debug\pbinfo 3824.exe

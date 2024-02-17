@@ -1,0 +1,3 @@
+﻿  inundatie.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\inundatie\inundatie\inundatie.cpp(24,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  inundatie.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\inundatie\x64\Debug\inundatie.exe

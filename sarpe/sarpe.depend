@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624990707 source:c:\users\sebas\documents\info\varena\sarpe\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,3 @@
+﻿  dogtrick 2.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\dogtrick 2\dogtrick 2\dogtrick 2.cpp(40,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  dogtrick 2.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\dogtrick 2\x64\Debug\dogtrick 2.exe

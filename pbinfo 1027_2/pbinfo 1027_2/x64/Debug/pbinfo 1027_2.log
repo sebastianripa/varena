@@ -1,0 +1,15 @@
+﻿  pbinfo 1027_2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1027_2\pbinfo 1027_2\pbinfo 1027_2.cpp(28,2): message : see reference to function template instantiation 'std::pair<int,int>::pair<unsigned __int64,_Ty2&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty2=int,
+              _Other1=unsigned __int64,
+              _Other2=int &
+          ]
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1027_2\pbinfo 1027_2\pbinfo 1027_2.cpp(28,2): message : see the first reference to 'std::pair<int,int>::pair' in 'verif'
+  pbinfo 1027_2.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1027_2\x64\Debug\pbinfo 1027_2.exe

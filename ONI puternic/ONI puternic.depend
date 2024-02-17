@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617862948 source:c:\users\sebas\documents\info\varena\oni puternic\main.cpp
+	<iostream>
+	<fstream>
+

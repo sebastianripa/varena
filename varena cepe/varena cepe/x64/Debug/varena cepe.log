@@ -1,0 +1,5 @@
+﻿  varena cepe.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena cepe\varena cepe\varena cepe.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena cepe\varena cepe\varena cepe.cpp(27,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena cepe\varena cepe\varena cepe.cpp(30,30): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  varena cepe.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\varena cepe\x64\Debug\varena cepe.exe

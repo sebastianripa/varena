@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612886420 source:c:\users\sebastian ripa\source\repos\varena\bac siruri de caractere\main.cpp
+	<fstream>
+	<string>
+

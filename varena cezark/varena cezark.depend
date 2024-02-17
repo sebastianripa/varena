@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586767406 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena cezark\main.cpp
+	<iostream>
+	<fstream>
+

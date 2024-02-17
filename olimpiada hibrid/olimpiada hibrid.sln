@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "olimpiada hibrid", "olimpiada hibrid\olimpiada hibrid.vcxproj", "{5641D3A9-4468-4617-9615-CF8FAAF46002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Debug|x64.ActiveCfg = Debug|x64
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Debug|x64.Build.0 = Debug|x64
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Debug|x86.ActiveCfg = Debug|Win32
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Debug|x86.Build.0 = Debug|Win32
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Release|x64.ActiveCfg = Release|x64
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Release|x64.Build.0 = Release|x64
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Release|x86.ActiveCfg = Release|Win32
+		{5641D3A9-4468-4617-9615-CF8FAAF46002}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062F611E-5C3C-4C2C-B090-5490D8B3A6D4}
+	EndGlobalSection
+EndGlobal

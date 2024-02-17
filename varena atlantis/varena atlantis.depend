@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614513765 source:c:\users\sebastian ripa\source\repos\varena\varena atlantis\main.cpp
+	<iostream>
+	<algorithm>
+

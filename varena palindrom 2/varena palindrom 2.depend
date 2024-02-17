@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592219978 source:c:\users\sebastian ripa\source\repos\info acasa\pregatire olimpiada\pregatire olimpiada\varena palindrom 2\main.cpp
+	<fstream>
+	<cmath>
+

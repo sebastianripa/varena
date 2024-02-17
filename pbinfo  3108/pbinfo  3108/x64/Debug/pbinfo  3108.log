@@ -1,0 +1,4 @@
+﻿  pbinfo  3108.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo  3108\pbinfo  3108\pbinfo  3108.cpp(11,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo  3108\pbinfo  3108\pbinfo  3108.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  pbinfo  3108.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo  3108\x64\Debug\pbinfo  3108.exe

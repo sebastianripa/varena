@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699889725 source:c:\users\sebas\onedrive\documents\github\varena\iiot\main.cpp
+	<iostream>
+	<vector>
+

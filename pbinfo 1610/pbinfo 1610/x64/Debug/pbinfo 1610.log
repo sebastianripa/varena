@@ -1,0 +1,3 @@
+﻿  pbinfo 1610.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1610\pbinfo 1610\pbinfo 1610.cpp(17,10): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  pbinfo 1610.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1610\x64\Debug\pbinfo 1610.exe

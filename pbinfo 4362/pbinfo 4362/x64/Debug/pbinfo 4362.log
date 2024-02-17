@@ -1,0 +1,5 @@
+﻿  pbinfo 4362.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 4362\pbinfo 4362\pbinfo 4362.cpp(13,19): error C2109: subscript requires array or pointer type
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 4362\pbinfo 4362\pbinfo 4362.cpp(14): error C2109: subscript requires array or pointer type
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 4362\pbinfo 4362\pbinfo 4362.cpp(34,29): error C2109: subscript requires array or pointer type
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 4362\pbinfo 4362\pbinfo 4362.cpp(39,29): error C2109: subscript requires array or pointer type

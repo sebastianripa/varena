@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685463292 source:c:\users\sebas\onedrive\documents\github\varena\agar mate-info fac intrare\main.cpp
+	<iostream>
+	<set>
+	<vector>
+

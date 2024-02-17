@@ -1,0 +1,3 @@
+﻿  3295.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\3295\3295\3295.cpp(37,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  3295.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\3295\x64\Debug\3295.exe

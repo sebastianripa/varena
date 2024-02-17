@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695550339 source:c:\users\sebas\onedrive\documents\github\varena\codeforces e. enemy is weak\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,15 @@
+#include <fstream>
+#include <cmath>
+
+using namespace std;
+
+ifstream fin ("abc1.in");
+ofstream fout ("abc1.out");
+
+int main()
+{
+    int a, b, c;
+    fin >> a >> b >> c;
+    fout << pow(a, pow(b, c))%10;
+    return 0;
+}

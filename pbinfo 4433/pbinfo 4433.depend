@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684605118 source:c:\users\sebas\onedrive\documents\github\varena\pbinfo 4433\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+

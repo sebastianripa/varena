@@ -1,0 +1,3 @@
+﻿  pbinfo 1104.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1104\pbinfo 1104\pbinfo 1104.cpp(14,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  pbinfo 1104.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena\pbinfo 1104\x64\Debug\pbinfo 1104.exe
