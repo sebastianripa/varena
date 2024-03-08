@@ -1,0 +1,3 @@
+﻿  infoarena loto.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\infoarena loto\infoarena loto\infoarena loto.cpp(13,5): error C2086: 'int S': redefinition
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\infoarena loto\infoarena loto\infoarena loto.cpp(11,16): message : see declaration of 'S'

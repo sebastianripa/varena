@@ -1,0 +1,3 @@
+﻿  pbinfo 386.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\pbinfo 386\pbinfo 386\pbinfo 386.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pbinfo 386.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena1\pbinfo 386\x64\Debug\pbinfo 386.exe

@@ -1,0 +1,6 @@
+﻿  usaco silver 2. Test Tubes.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes.cpp(3,7): error C2065: 'namesapce': undeclared identifier
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes.cpp(3,7): error C2187: syntax error: 'namesapce' was unexpected here
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes.cpp(3,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes\usaco silver 2. Test Tubes.cpp(3,17): error C2365: 'std': redefinition; previous definition was 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'

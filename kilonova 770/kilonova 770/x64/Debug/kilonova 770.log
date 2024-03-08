@@ -1,0 +1,3 @@
+﻿  kilonova 770.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\kilonova 770\kilonova 770\kilonova 770.cpp(35,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  kilonova 770.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena1\kilonova 770\x64\Debug\kilonova 770.exe

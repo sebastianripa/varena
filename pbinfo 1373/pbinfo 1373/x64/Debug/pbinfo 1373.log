@@ -1,0 +1,3 @@
+﻿  pbinfo 1373.cpp
+C:\Users\sebas\OneDrive\Documents\GitHub\varena1\pbinfo 1373\pbinfo 1373\pbinfo 1373.cpp(17,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pbinfo 1373.vcxproj -> C:\Users\sebas\OneDrive\Documents\GitHub\varena1\pbinfo 1373\x64\Debug\pbinfo 1373.exe
